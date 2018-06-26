@@ -1,7 +1,7 @@
 # TypeScript
 
-<div style="width: 100%">
-    <img style="text-align:center;height:200px;" src="https://rynop.files.wordpress.com/2016/09/ts.png?w=816"/>
+<div style="width: 100%; text-align:center;">
+    <img height="200" width="200" src="https://rynop.files.wordpress.com/2016/09/ts.png?w=816"/>
 </div>
 
 Código desarrollado por Ignacio García-Cano Lavazza para una clase del programa FullStack realizado por la E.O.I.
